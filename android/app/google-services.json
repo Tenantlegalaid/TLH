@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "368253342499",
+    "project_id": "tenant-legal-aid-vxul31",
+    "storage_bucket": "tenant-legal-aid-vxul31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368253342499:android:34527e1e58c5697ca93296",
+        "android_client_info": {
+          "package_name": "com.mycompany.tenantlegalhelp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdr4oGwCcqCatb1qVme73hI1IJ12pCdqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

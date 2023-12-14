@@ -1,0 +1,38 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "report",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Fullname",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "EmailAddress",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Phonenumber",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Dateofbirth",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "ResidentialAddress",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "The_address_of_the_property_being_repossessed",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "How_long_you_have_lived_in_the_property",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
